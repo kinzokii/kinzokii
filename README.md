@@ -9,4 +9,5 @@
     <img src="https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=7289DA" alt="discord" style="width:140px;">
   </a>
 </p>
-[![](https://github.com/kinzokii/kinzokii/blob/main/ZXC/depressed.gif)](https://discordapp.com/users/349191763933659139)
+[![](https://raw.githubusercontent.com/kinzokii/kinzokii/main/ZXC/depressed.gif)](https://discordapp.com/users/349191763933659139)
+
