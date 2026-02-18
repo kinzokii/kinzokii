@@ -22,13 +22,14 @@
 
 <center>
     <div>
-      <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
+      <h2 align="center"> ~ 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦  ~ </h2>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/kinzokii/kinzokii/main/ZXC/griffith-pointing1.gif" align="right" />
+        <img src="https://raw.githubusercontent.com/kinzokii/kinzokii/main/ZXC/nagi1.gif" align="right" />
       </div>
       <ul>
         <li><b>Name:</b> Matvey</li>
-        <li><b>Interests</b> anime, osu, competitive games</li>
+        <li><b>Interests:</b> anime, osu, competitive games</li>
         <li><b>Hobbys:</b> I do a little bit of everything, mostly just for enjoyment.</li>
       </ul>
     </div>
+<div>
