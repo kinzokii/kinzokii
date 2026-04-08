@@ -7,11 +7,24 @@
   <img src="https://raw.githubusercontent.com/kinzokii/kinzokii/main/ZXC/depressed.gif" />
 </p>
 
-## Currently learning:
 <div align="center">
+
+## Currently learning:
+
   <img src="https://skillicons.dev/icons?i=cs" height="70" alt="cs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cpp logo"  />
+  <img width="20" />
+  
+  ##  Workspace:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="70"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="70"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=windows" height="70"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=apple" height="70"  />
   <img width="20" />
   
   ## Socials:
