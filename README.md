@@ -1,3 +1,8 @@
+<div align="center">
+
+# 👋 Hi, my name is Matvey
+
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/kinzokii/kinzokii/main/ZXC/depressed.gif" />
 </p>
@@ -35,8 +40,10 @@
       </div>
       <ul>
         <li><b>Name:</b> Matvey</li>
-        <li><b>Interests:</b> anime, osu, competitive games</li>
+        <li><b>Age:</b> 19</li>
+        <li><b>Interests:</b> anime, movies, competitive games</li>
         <li><b>Hobbys:</b> I do a little bit of everything, mostly just for enjoyment.</li>
+        <li> Student of  the Polar State University.</li>
       </ul>
     </div>
 <div>
